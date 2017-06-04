@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Special Numbers\obj\Debug\05. Special Numbers - Lab.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Boolean Variable - Exerciese\bin\Debug\_05.Boolean_Variable___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Boolean Variable - Exerciese\bin\Debug\_05.Boolean_Variable___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Boolean Variable - Exerciese\bin\Debug\_05.Boolean_Variable___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Boolean Variable - Exerciese\obj\Debug\_05.Boolean_Variable___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\05. Boolean Variable - Exerciese\obj\Debug\_05.Boolean_Variable___Exerciese.pdb

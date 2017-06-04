@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\12. Rectangle Properties - Exercise\bin\Debug\_12.Rectangle_Properties___Exercise.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\12. Rectangle Properties - Exercise\bin\Debug\_12.Rectangle_Properties___Exercise.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\12. Rectangle Properties - Exercise\bin\Debug\_12.Rectangle_Properties___Exercise.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\12. Rectangle Properties - Exercise\obj\Debug\_12.Rectangle_Properties___Exercise.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\12. Rectangle Properties - Exercise\obj\Debug\_12.Rectangle_Properties___Exercise.pdb

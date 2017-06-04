@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Type Boundaries - Exerciese\obj\Debug\Type Boundaries - Exerciese.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Type Boundaries - Exerciese\bin\Debug\Type Boundaries - Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Type Boundaries - Exerciese\bin\Debug\Type Boundaries - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Type Boundaries - Exerciese\bin\Debug\Type Boundaries - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Type Boundaries - Exerciese\obj\Debug\Type Boundaries - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Type Boundaries - Exerciese\obj\Debug\Type Boundaries - Exerciese.pdb

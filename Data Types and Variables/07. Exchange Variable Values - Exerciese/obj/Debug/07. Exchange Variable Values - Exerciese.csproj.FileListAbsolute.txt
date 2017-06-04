@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\07. Exchange Variable Values - Exerciese\bin\Debug\_07.Exchange_Variable_Values___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\07. Exchange Variable Values - Exerciese\bin\Debug\_07.Exchange_Variable_Values___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\07. Exchange Variable Values - Exerciese\bin\Debug\_07.Exchange_Variable_Values___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\07. Exchange Variable Values - Exerciese\obj\Debug\_07.Exchange_Variable_Values___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\07. Exchange Variable Values - Exerciese\obj\Debug\_07.Exchange_Variable_Values___Exerciese.pdb

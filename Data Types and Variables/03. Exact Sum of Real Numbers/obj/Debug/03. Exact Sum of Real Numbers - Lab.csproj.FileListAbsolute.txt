@@ -1,0 +1,6 @@
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe.config
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.pdb
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\03. Exact Sum of Real Numbers - Lab.csprojResolveAssemblyReference.cache
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.pdb

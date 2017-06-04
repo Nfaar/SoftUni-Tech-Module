@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\11. Convert Speed Units - Exerciese\bin\Debug\_11.Convert_Speed_Units___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\11. Convert Speed Units - Exerciese\bin\Debug\_11.Convert_Speed_Units___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\11. Convert Speed Units - Exerciese\bin\Debug\_11.Convert_Speed_Units___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\11. Convert Speed Units - Exerciese\obj\Debug\_11.Convert_Speed_Units___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\11. Convert Speed Units - Exerciese\obj\Debug\_11.Convert_Speed_Units___Exerciese.pdb

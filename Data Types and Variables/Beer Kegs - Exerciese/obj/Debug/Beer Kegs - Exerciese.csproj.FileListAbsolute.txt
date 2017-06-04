@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Beer Kegs - Exerciese\bin\Debug\Beer Kegs - Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Beer Kegs - Exerciese\bin\Debug\Beer Kegs - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Beer Kegs - Exerciese\bin\Debug\Beer Kegs - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Beer Kegs - Exerciese\obj\Debug\Beer Kegs - Exerciese.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Beer Kegs - Exerciese\obj\Debug\Beer Kegs - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Beer Kegs - Exerciese\obj\Debug\Beer Kegs - Exerciese.pdb

@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Balanced Brackets - Exerciese\bin\Debug\Balanced Brackets - Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Balanced Brackets - Exerciese\bin\Debug\Balanced Brackets - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Balanced Brackets - Exerciese\bin\Debug\Balanced Brackets - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Balanced Brackets - Exerciese\obj\Debug\Balanced Brackets - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Balanced Brackets - Exerciese\obj\Debug\Balanced Brackets - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Balanced Brackets - Exerciese\obj\Debug\Balanced Brackets - Exerciese.csprojResolveAssemblyReference.cache

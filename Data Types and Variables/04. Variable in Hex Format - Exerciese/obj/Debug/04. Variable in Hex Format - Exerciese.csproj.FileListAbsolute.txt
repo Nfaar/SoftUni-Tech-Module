@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\04. Variable in Hex Format - Exerciese\bin\Debug\_04.Variable_in_Hex_Format___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\04. Variable in Hex Format - Exerciese\bin\Debug\_04.Variable_in_Hex_Format___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\04. Variable in Hex Format - Exerciese\bin\Debug\_04.Variable_in_Hex_Format___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\04. Variable in Hex Format - Exerciese\obj\Debug\_04.Variable_in_Hex_Format___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\04. Variable in Hex Format - Exerciese\obj\Debug\_04.Variable_in_Hex_Format___Exerciese.pdb

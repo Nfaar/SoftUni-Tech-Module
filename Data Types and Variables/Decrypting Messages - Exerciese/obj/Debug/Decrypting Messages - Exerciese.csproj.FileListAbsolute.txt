@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Decrypting Messages - Exerciese\bin\Debug\Decrypting Messages - Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Decrypting Messages - Exerciese\bin\Debug\Decrypting Messages - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Decrypting Messages - Exerciese\bin\Debug\Decrypting Messages - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Decrypting Messages - Exerciese\obj\Debug\Decrypting Messages - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Decrypting Messages - Exerciese\obj\Debug\Decrypting Messages - Exerciese.pdb

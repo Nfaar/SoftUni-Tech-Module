@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\House Builder - Exerciese\bin\Debug\House Builder - Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\House Builder - Exerciese\bin\Debug\House Builder - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\House Builder - Exerciese\bin\Debug\House Builder - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\House Builder - Exerciese\obj\Debug\House Builder - Exerciese.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\House Builder - Exerciese\obj\Debug\House Builder - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\House Builder - Exerciese\obj\Debug\House Builder - Exerciese.pdb

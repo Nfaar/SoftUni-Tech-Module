@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\17. Print Part Of ASCII Table - Exerciese\bin\Debug\_17.Print_Part_Of_ASCII_Table___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\17. Print Part Of ASCII Table - Exerciese\bin\Debug\_17.Print_Part_Of_ASCII_Table___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\17. Print Part Of ASCII Table - Exerciese\bin\Debug\_17.Print_Part_Of_ASCII_Table___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\17. Print Part Of ASCII Table - Exerciese\obj\Debug\_17.Print_Part_Of_ASCII_Table___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\17. Print Part Of ASCII Table - Exerciese\obj\Debug\_17.Print_Part_Of_ASCII_Table___Exerciese.pdb

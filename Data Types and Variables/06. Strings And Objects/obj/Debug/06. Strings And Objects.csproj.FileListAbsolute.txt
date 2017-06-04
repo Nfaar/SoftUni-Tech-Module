@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

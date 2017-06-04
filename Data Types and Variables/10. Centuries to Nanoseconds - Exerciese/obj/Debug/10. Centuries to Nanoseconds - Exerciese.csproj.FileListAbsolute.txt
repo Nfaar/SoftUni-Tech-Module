@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\10. Centuries to Nanoseconds - Exerciese\bin\Debug\_10.Centuries_to_Nanoseconds___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\10. Centuries to Nanoseconds - Exerciese\bin\Debug\_10.Centuries_to_Nanoseconds___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\10. Centuries to Nanoseconds - Exerciese\bin\Debug\_10.Centuries_to_Nanoseconds___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\10. Centuries to Nanoseconds - Exerciese\obj\Debug\10. Centuries to Nanoseconds - Exerciese.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\10. Centuries to Nanoseconds - Exerciese\obj\Debug\_10.Centuries_to_Nanoseconds___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\10. Centuries to Nanoseconds - Exerciese\obj\Debug\_10.Centuries_to_Nanoseconds___Exerciese.pdb

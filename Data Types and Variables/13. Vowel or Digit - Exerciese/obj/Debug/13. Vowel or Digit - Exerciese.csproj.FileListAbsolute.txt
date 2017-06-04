@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\13. Vowel or Digit - Exerciese\bin\Debug\_13.Vowel_or_Digit___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\13. Vowel or Digit - Exerciese\bin\Debug\_13.Vowel_or_Digit___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\13. Vowel or Digit - Exerciese\bin\Debug\_13.Vowel_or_Digit___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\13. Vowel or Digit - Exerciese\obj\Debug\_13.Vowel_or_Digit___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\13. Vowel or Digit - Exerciese\obj\Debug\_13.Vowel_or_Digit___Exerciese.pdb

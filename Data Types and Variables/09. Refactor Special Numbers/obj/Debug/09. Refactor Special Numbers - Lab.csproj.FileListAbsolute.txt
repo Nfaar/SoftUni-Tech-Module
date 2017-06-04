@@ -1,0 +1,6 @@
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe.config
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.pdb
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\09. Refactor Special Numbers\obj\Debug\09. Refactor Special Numbers - Lab.csprojResolveAssemblyReference.cache
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.exe
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.pdb

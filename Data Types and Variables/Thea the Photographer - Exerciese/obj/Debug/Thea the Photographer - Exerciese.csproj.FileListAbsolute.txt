@@ -1,0 +1,6 @@
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Data Types and Variables\Thea the Photographer - Exerciese\bin\Debug\Thea the Photographer - Exerciese.exe.config
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Data Types and Variables\Thea the Photographer - Exerciese\bin\Debug\Thea the Photographer - Exerciese.exe
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Data Types and Variables\Thea the Photographer - Exerciese\bin\Debug\Thea the Photographer - Exerciese.pdb
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Data Types and Variables\Thea the Photographer - Exerciese\obj\Debug\Thea the Photographer - Exerciese.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Data Types and Variables\Thea the Photographer - Exerciese\obj\Debug\Thea the Photographer - Exerciese.exe
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Data Types and Variables\Thea the Photographer - Exerciese\obj\Debug\Thea the Photographer - Exerciese.pdb

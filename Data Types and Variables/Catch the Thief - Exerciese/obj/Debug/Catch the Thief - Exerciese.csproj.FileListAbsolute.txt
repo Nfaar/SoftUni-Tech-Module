@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Catch the Thief - Exerciese\bin\Debug\Catch the Thief - Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Catch the Thief - Exerciese\bin\Debug\Catch the Thief - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Catch the Thief - Exerciese\bin\Debug\Catch the Thief - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Catch the Thief - Exerciese\obj\Debug\Catch the Thief - Exerciese.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Catch the Thief - Exerciese\obj\Debug\Catch the Thief - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Catch the Thief - Exerciese\obj\Debug\Catch the Thief - Exerciese.pdb

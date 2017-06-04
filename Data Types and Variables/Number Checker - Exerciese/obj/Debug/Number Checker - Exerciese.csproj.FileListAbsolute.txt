@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Number Checker - Exerciese\bin\Debug\Number Checker - Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Number Checker - Exerciese\bin\Debug\Number Checker - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Number Checker - Exerciese\bin\Debug\Number Checker - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Number Checker - Exerciese\obj\Debug\Number Checker - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\Number Checker - Exerciese\obj\Debug\Number Checker - Exerciese.pdb

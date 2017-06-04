@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\String Concatenation - Exerciese\bin\Debug\String Concatenation - Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\String Concatenation - Exerciese\bin\Debug\String Concatenation - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\String Concatenation - Exerciese\bin\Debug\String Concatenation - Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\String Concatenation - Exerciese\obj\Debug\String Concatenation - Exerciese.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\String Concatenation - Exerciese\obj\Debug\String Concatenation - Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\String Concatenation - Exerciese\obj\Debug\String Concatenation - Exerciese.pdb

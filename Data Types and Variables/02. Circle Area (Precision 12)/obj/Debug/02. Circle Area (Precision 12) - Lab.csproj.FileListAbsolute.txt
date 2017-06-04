@@ -1,0 +1,6 @@
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.exe.config
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.exe
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.pdb
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\02. Circle Area (Precision 12)\obj\Debug\02. Circle Area (Precision 12) - Lab.csprojResolveAssemblyReference.cache
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\02. Circle Area (Precision 12)\obj\Debug\_02.Circle_Area__Precision_12_.exe
+c:\users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\02. Circle Area (Precision 12)\obj\Debug\_02.Circle_Area__Precision_12_.pdb

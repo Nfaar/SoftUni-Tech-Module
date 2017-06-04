@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\16. Comparing floats - Exerciese\bin\Debug\_16.Comparing_floats___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\16. Comparing floats - Exerciese\bin\Debug\_16.Comparing_floats___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\16. Comparing floats - Exerciese\bin\Debug\_16.Comparing_floats___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\16. Comparing floats - Exerciese\obj\Debug\_16.Comparing_floats___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\16. Comparing floats - Exerciese\obj\Debug\_16.Comparing_floats___Exerciese.pdb

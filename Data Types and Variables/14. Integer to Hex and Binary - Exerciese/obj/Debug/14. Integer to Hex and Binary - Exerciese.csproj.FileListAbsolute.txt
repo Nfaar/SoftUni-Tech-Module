@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\14. Integer to Hex and Binary - Exerciese\bin\Debug\_14.Integer_to_Hex_and_Binary___Exerciese.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\14. Integer to Hex and Binary - Exerciese\bin\Debug\_14.Integer_to_Hex_and_Binary___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\14. Integer to Hex and Binary - Exerciese\bin\Debug\_14.Integer_to_Hex_and_Binary___Exerciese.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\14. Integer to Hex and Binary - Exerciese\obj\Debug\_14.Integer_to_Hex_and_Binary___Exerciese.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Data Types and Variables\14. Integer to Hex and Binary - Exerciese\obj\Debug\_14.Integer_to_Hex_and_Binary___Exerciese.pdb
