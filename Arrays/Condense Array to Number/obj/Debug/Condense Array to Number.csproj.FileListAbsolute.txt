@@ -1,0 +1,5 @@
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Condense Array to Number\bin\Debug\Condense Array to Number.exe.config
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Condense Array to Number\bin\Debug\Condense Array to Number.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Condense Array to Number\bin\Debug\Condense Array to Number.pdb
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Condense Array to Number\obj\Debug\Condense Array to Number.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Condense Array to Number\obj\Debug\Condense Array to Number.pdb

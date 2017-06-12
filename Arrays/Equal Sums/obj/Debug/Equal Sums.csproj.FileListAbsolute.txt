@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Equal Sums\bin\Debug\Equal Sums.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Equal Sums\bin\Debug\Equal Sums.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Equal Sums\bin\Debug\Equal Sums.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Equal Sums\obj\Debug\Equal Sums.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Equal Sums\obj\Debug\Equal Sums.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Equal Sums\obj\Debug\Equal Sums.pdb

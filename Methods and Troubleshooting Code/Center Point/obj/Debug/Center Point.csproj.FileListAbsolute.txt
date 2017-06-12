@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Center Point\bin\Debug\Center Point.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Center Point\bin\Debug\Center Point.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Center Point\bin\Debug\Center Point.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Center Point\obj\Debug\Center Point.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Center Point\obj\Debug\Center Point.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Center Point\obj\Debug\Center Point.pdb

@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pizza Ingredients\bin\Debug\Pizza Ingredients.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pizza Ingredients\bin\Debug\Pizza Ingredients.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pizza Ingredients\bin\Debug\Pizza Ingredients.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pizza Ingredients\obj\Debug\Pizza Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pizza Ingredients\obj\Debug\Pizza Ingredients.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pizza Ingredients\obj\Debug\Pizza Ingredients.pdb

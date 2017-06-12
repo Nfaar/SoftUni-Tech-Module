@@ -1,0 +1,6 @@
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.exe.config
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.pdb
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.csprojResolveAssemblyReference.cache
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.pdb

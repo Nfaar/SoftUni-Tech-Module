@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Max Method\bin\Debug\Max Method.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Max Method\bin\Debug\Max Method.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Max Method\bin\Debug\Max Method.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Max Method\obj\Debug\Max Method.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Max Method\obj\Debug\Max Method.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Max Method\obj\Debug\Max Method.pdb

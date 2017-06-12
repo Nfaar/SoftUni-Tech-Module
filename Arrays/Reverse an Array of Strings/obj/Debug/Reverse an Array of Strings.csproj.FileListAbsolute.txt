@@ -1,0 +1,5 @@
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Reverse an Array of Strings\bin\Debug\Reverse an Array of Strings.exe.config
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Reverse an Array of Strings\bin\Debug\Reverse an Array of Strings.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Reverse an Array of Strings\bin\Debug\Reverse an Array of Strings.pdb
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Reverse an Array of Strings\obj\Debug\Reverse an Array of Strings.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Reverse an Array of Strings\obj\Debug\Reverse an Array of Strings.pdb

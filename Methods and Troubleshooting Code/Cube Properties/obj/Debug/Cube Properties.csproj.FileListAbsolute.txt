@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Cube Properties\bin\Debug\Cube Properties.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Cube Properties\bin\Debug\Cube Properties.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Cube Properties\bin\Debug\Cube Properties.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Cube Properties\obj\Debug\Cube Properties.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Cube Properties\obj\Debug\Cube Properties.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Cube Properties\obj\Debug\Cube Properties.pdb

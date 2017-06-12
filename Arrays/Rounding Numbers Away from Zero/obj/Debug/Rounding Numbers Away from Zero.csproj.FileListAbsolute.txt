@@ -1,0 +1,6 @@
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Rounding Numbers Away from Zero\bin\Debug\Rounding Numbers Away from Zero.exe.config
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Rounding Numbers Away from Zero\bin\Debug\Rounding Numbers Away from Zero.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Rounding Numbers Away from Zero\bin\Debug\Rounding Numbers Away from Zero.pdb
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Rounding Numbers Away from Zero\obj\Debug\Rounding Numbers Away from Zero.csprojResolveAssemblyReference.cache
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Rounding Numbers Away from Zero\obj\Debug\Rounding Numbers Away from Zero.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Rounding Numbers Away from Zero\obj\Debug\Rounding Numbers Away from Zero.pdb

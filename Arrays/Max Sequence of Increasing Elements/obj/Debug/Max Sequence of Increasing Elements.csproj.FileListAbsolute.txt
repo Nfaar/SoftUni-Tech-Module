@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\bin\Debug\Max Sequence of Increasing Elements.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\bin\Debug\Max Sequence of Increasing Elements.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\bin\Debug\Max Sequence of Increasing Elements.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\obj\Debug\Max Sequence of Increasing Elements.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\obj\Debug\Max Sequence of Increasing Elements.pdb

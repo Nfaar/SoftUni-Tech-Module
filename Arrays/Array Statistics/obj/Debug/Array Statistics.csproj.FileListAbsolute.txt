@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Array Statistics\bin\Debug\Array Statistics.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Array Statistics\bin\Debug\Array Statistics.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Array Statistics\bin\Debug\Array Statistics.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Array Statistics\obj\Debug\Array Statistics.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Array Statistics\obj\Debug\Array Statistics.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Array Statistics\obj\Debug\Array Statistics.pdb

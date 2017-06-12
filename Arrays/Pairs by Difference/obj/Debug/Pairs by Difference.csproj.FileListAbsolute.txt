@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pairs by Difference\bin\Debug\Pairs by Difference.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pairs by Difference\bin\Debug\Pairs by Difference.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pairs by Difference\bin\Debug\Pairs by Difference.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pairs by Difference\obj\Debug\Pairs by Difference.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Pairs by Difference\obj\Debug\Pairs by Difference.pdb

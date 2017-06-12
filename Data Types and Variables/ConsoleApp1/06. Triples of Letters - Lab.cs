@@ -21,6 +21,7 @@ namespace Exericses
                     for (char r = 'a'; r < letter; r++)
                     {
                         Console.WriteLine($"{i}{y}{r}");
+                        
                     }
                 }
             }

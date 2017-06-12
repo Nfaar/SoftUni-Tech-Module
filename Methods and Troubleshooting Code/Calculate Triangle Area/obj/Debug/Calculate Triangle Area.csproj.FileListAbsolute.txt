@@ -1,0 +1,6 @@
+c:\users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe.config
+c:\users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe
+c:\users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.pdb
+c:\users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.csprojResolveAssemblyReference.cache
+c:\users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.exe
+c:\users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.pdb

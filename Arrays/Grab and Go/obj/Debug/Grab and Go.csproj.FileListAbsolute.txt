@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Grab and Go\bin\Debug\Grab and Go.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Grab and Go\bin\Debug\Grab and Go.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Grab and Go\bin\Debug\Grab and Go.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Grab and Go\obj\Debug\Grab and Go.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Grab and Go\obj\Debug\Grab and Go.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Grab and Go\obj\Debug\Grab and Go.pdb

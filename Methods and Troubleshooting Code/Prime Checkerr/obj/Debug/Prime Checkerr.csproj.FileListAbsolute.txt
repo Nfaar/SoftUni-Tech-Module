@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Prime Checkerr\bin\Debug\Prime Checkerr.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Prime Checkerr\bin\Debug\Prime Checkerr.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Prime Checkerr\bin\Debug\Prime Checkerr.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Prime Checkerr\obj\Debug\Prime Checkerr.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Prime Checkerr\obj\Debug\Prime Checkerr.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\Prime Checkerr\obj\Debug\Prime Checkerr.pdb

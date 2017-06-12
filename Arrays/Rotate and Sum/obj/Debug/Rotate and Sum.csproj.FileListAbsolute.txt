@@ -1,0 +1,5 @@
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Arrays\Rotate and Sum\bin\Debug\Rotate and Sum.exe.config
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Arrays\Rotate and Sum\bin\Debug\Rotate and Sum.exe
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Arrays\Rotate and Sum\bin\Debug\Rotate and Sum.pdb
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Arrays\Rotate and Sum\obj\Debug\Rotate and Sum.exe
+C:\Users\nfaar\Documents\Visual Studio 2017\Projects\Arrays\Rotate and Sum\obj\Debug\Rotate and Sum.pdb

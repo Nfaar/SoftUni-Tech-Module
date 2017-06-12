@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache

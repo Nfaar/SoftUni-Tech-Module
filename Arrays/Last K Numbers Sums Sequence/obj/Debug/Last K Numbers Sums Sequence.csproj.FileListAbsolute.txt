@@ -1,0 +1,5 @@
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.exe.config
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.pdb
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Index of Letters\bin\Debug\Index of Letters.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Index of Letters\bin\Debug\Index of Letters.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Index of Letters\bin\Debug\Index of Letters.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Index of Letters\obj\Debug\Index of Letters.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Index of Letters\obj\Debug\Index of Letters.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Index of Letters\obj\Debug\Index of Letters.pdb

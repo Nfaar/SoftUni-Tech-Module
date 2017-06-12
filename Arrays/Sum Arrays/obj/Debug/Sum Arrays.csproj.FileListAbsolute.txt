@@ -1,0 +1,5 @@
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Sum Arrays\bin\Debug\Sum Arrays.exe.config
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Sum Arrays\bin\Debug\Sum Arrays.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Sum Arrays\bin\Debug\Sum Arrays.pdb
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Sum Arrays\obj\Debug\Sum Arrays.exe
+c:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Sum Arrays\obj\Debug\Sum Arrays.pdb

@@ -1,0 +1,5 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\English Name оf The Last Digit\bin\Debug\English Name оf The Last Digit.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\English Name оf The Last Digit\bin\Debug\English Name оf The Last Digit.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\English Name оf The Last Digit\bin\Debug\English Name оf The Last Digit.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\English Name оf The Last Digit\obj\Debug\English Name оf The Last Digit.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Methods and Troubleshooting Code\English Name оf The Last Digit\obj\Debug\English Name оf The Last Digit.pdb

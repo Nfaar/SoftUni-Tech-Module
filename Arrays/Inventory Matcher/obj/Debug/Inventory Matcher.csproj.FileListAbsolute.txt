@@ -1,0 +1,6 @@
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Inventory Matcher\bin\Debug\Inventory Matcher.exe.config
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Inventory Matcher\bin\Debug\Inventory Matcher.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Inventory Matcher\bin\Debug\Inventory Matcher.pdb
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Inventory Matcher\obj\Debug\Inventory Matcher.csprojResolveAssemblyReference.cache
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Inventory Matcher\obj\Debug\Inventory Matcher.exe
+C:\Users\nfaar\documents\visual studio 2017\Projects\Arrays\Inventory Matcher\obj\Debug\Inventory Matcher.pdb
